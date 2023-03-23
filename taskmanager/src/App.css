@@ -1,0 +1,53 @@
+*{
+  margin:0;
+  padding:0;
+
+}
+.heading{
+  position: absolute;
+  top:150px;
+  left: 481px;
+  font-size: 60px;
+  
+}
+
+.create--task{
+  width: 600px;
+  height: 66px;
+  font-size: 25px;
+  border: rgb(76, 76, 76) 3px solid;
+  border-radius: 16px;
+  margin: 300px 50px auto 300px;
+  padding-left: 15px;
+}
+button{
+  color:aliceblue;
+background-image: linear-gradient(to right, #5ECDE1 , #2CAEE2);
+border: aliceblue 3px solid;
+
+}
+.create{
+
+
+width: 250px;
+height: 66px;
+font-size: 28px;
+border-radius: 16px;
+}
+.secondary{
+  width: 165px;
+  height: 45px;
+  font-size: 19px;
+  border-radius: 11px;
+  margin: 0 5px;
+  
+}
+.item{
+  display: flex;
+  margin: 20px 20%;
+  align-items: center;
+  border: 2px solid  rgb(172, 172, 172);
+  padding: 18px;
+  border-radius: 12px;
+  justify-content: space-between;
+}
